@@ -1,4 +1,4 @@
-###IrisLocalization.py
+### IrisLocalization.py
 
 This function is to localize the pupil. The function apply hough transform to detect both the circles of pupil and iris. Here we add restriction to pupil/iris into 120 * 120 centeral area of eye image to avoid misdetection.
 
